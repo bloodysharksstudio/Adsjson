@@ -24,6 +24,8 @@
   "SecondPriorityBanner": "Unity",
   "FirstPrioritySmallBanner": "AppLovin",
   "SecondPrioritySmallBanner": "AppLovin",
+  "FirstPriorityAppOpen": "Admob",
+  "SecondPriorityAppOpen": "AppLovin",
   "PlayButtonInstertitial": true,
   "LevelButtonInstertitial": true,
   "PauseButtonInstertitial": true,
@@ -32,6 +34,7 @@
   "MainMenuInstertitial": true,
   "MainBanner": true,
   "SmallBanner": true,
+  "AppOpen": true,
   "Rewarded": true  
 }
 
