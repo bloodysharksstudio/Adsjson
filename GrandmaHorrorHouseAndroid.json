@@ -1,7 +1,7 @@
 {
-  "FirstPriorityMainMenuToLevel": "Admob",
-  "SecondPriorityMainMenuToLevel": "AppLovin",
-  "ThirdPriorityMainMenuToLevel": "Unity",
+  "FirstPriorityMainMenuToLevel": "AppLovin",
+  "SecondPriorityMainMenuToLevel": "Unity",
+  "ThirdPriorityMainMenuToLevel": "AppLovin",
   "FirstPriorityLevelToLoading": "AppLovin",
   "SecondPriorityLevelToLoading": "Unity",
   "ThirdPriorityLevelToLoading": "AppLovin",
