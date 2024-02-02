@@ -25,7 +25,7 @@
   "FirstPrioritySmallBanner": "AppLovin",
   "SecondPrioritySmallBanner": "AppLovin",
   "FirstPriorityAppOpen": "Admob",
-  "SecondPriorityAppOpen": "AppLovin",
+  "SecondPriorityAppOpen": "Admob",
   "PlayButtonInstertitial": true,
   "LevelButtonInstertitial": true,
   "PauseButtonInstertitial": true,
