@@ -17,7 +17,7 @@
   "FirstPriorityGamePlayToMainMenu": "Admob",
   "SecondPriorityGamePlayToMainMenu": "AppLovin",
   "ThirdPriorityGamePlayToMainMenu": "Unity",
-  "FirstPriorityRewarded": "Admob",
+  "FirstPriorityRewarded": "AppLovin",
   "SecondPriorityRewarded": "AppLovin",
   "ThirdPriorityRewarded": "Unity",
   "FirstPriorityBanner": "Admob",
