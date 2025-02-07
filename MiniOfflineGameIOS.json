@@ -5,7 +5,7 @@
   "FirstPriorityLevelComplete": "App",
   "FirstPriorityLevelFail": "App",
   "FirstPriorityGamePlayToMainMenu": "App",
-  "FirstPriorityRewarded": "App",
+  "FirstPriorityRewarded": "AppLovin",
   "FirstPriorityMRec": "App",
   "FirstPrioritySmallBanner": "App",
   "FirstPriorityAppOpen": "App",
@@ -18,5 +18,5 @@
   "MRec": false,
   "SmallBanner": false,
   "AppOpen": false,
-  "Rewarded": false  
+  "Rewarded": true  
 }
