@@ -23,7 +23,7 @@
   "FirstPriorityBanner": "AppLovin",
   "SecondPriorityBanner": "Admob",
   "FirstPrioritySmallBanner": "Admob",
-  "SecondPrioritySmallBanner": "Admob",
+  "SecondPrioritySmallBanner": "AppLovin",
   "FirstPriorityAppOpen": "Admob",
   "SecondPriorityAppOpen": "Admob",
   "PlayButtonInstertitial": true,
