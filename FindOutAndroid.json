@@ -1,22 +1,42 @@
 {
   "FirstPriorityMainMenuToLevel": "AppLovin",
+  "SecondPriorityMainMenuToLevel": "Admob",
+  
   "FirstPriorityLevelToLoading": "AppLovin",
+  "SecondPriorityLevelToLoading": "Admob",
+  
   "FirstPriorityPause": "AppLovin",
+  "SecondPriorityPause": "Admob",
+  
   "FirstPriorityLevelComplete": "AppLovin",
+  "SecondPriorityLevelComplete": "Admob",
+  
   "FirstPriorityLevelFail": "AppLovin",
+  "SecondPriorityLevelFail": "Admob",
+  
   "FirstPriorityGamePlayToMainMenu": "AppLovin",
+  "SecondPriorityGamePlayToMainMenu": "Admob",
+  
   "FirstPriorityRewarded": "AppLovin",
-  "FirstPriorityMRec": "AppLovin",
+  "SecondPriorityRewarded": "Admob",
+  
+  "FirstPriorityMRec": "Admob",
+  "SecondPriorityMRec": "Admob",
+  
   "FirstPrioritySmallBanner": "AppLovin",
+  "SecondPrioritySmallBanner": "Admob",
+  
   "FirstPriorityAppOpen": "AppLovin",
-  "PlayButtonInstertitial": false,
-  "LevelButtonInstertitial": false,
-  "PauseButtonInstertitial": false,
-  "LevelCompleteInstertitial": false,
-  "LevelFailInstertitial": false,
-  "MainMenuInstertitial": false,
-  "MRec": false,
-  "SmallBanner": false,
-  "AppOpen": false,
-  "Rewarded": false  
+  "SecondPriorityAppOpen": "Admob",
+  
+  "PlayButtonInstertitial": true,
+  "LevelButtonInstertitial": true,
+  "PauseButtonInstertitial": true,
+  "LevelCompleteInstertitial": true,
+  "LevelFailInstertitial": true,
+  "MainMenuInstertitial": true,
+  "MRec": true,
+  "SmallBanner": true,
+  "AppOpen": true,
+  "Rewarded": true  
 }
