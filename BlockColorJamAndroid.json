@@ -1,5 +1,5 @@
 {
- "FirstPriorityMainMenuToLevel": "Admob",
+  "FirstPriorityMainMenuToLevel": "Admob",
   "SecondPriorityMainMenuToLevel": "AppLovin",
   
   "FirstPriorityLevelToLoading": "Admob",
